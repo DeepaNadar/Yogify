@@ -3,7 +3,7 @@
 ## Features:
 1. **Easy Access**: Start your yoga journey by logging in with your email or Google account.
 1. **Explore Poses**: Once logged in, the dashboard presents 6 yoga poses to choose from.
-1. **Pose Perfection**: Select a pose, and the front camera comes to life, showing a blue skeleton over your live video. The blue skeleton mirrors your movements. The app calculates an accuracy score, providing instant feedback on your form.
+1. **Pose Perfection**: Select a pose, and the front camera comes to life, showing a blue skeleton over your live video. The blue skeleton mirrors your movements. The app calculates an accuracy score, providing instant feedback.
 1. **Powered by Teachable Machine**: Yogify's technology is powered by the Teachable Machine framework. This enables accurate pose assessment, enhancing your yoga practice with intelligent insights.
 ## Upcoming Innovations:
 - **YouTube Yoga Tutorials**: Immerse yourself in guided yoga sessions with integrated YouTube tutorials. Elevate your practice by following expert instructions within the app.
