@@ -10,8 +10,12 @@
 - **User Profiles**: Create personalized profiles to track your progress, view your yoga journey, and set goals for continuous improvement.
 - **Expanded Dataset**: Although currently limited by dataset constraints, the app's AI capabilities will evolve as the dataset grows, offering enhanced accuracy and precision.
 ## Screenshots:
-![Yogify1](https://github.com/DeepaNadar/Yogify/assets/141585733/6d141930-5ac0-4434-acea-c9146aafb4a3) ![Yogify2](https://github.com/DeepaNadar/Yogify/assets/141585733/63d6a3b2-1fdb-4f0d-8064-236a6d293800)
-![Yogify3](https://github.com/DeepaNadar/Yogify/assets/141585733/65b44850-f32b-4d88-bac4-68ebb9aafd60) ![Yogify4](https://github.com/DeepaNadar/Yogify/assets/141585733/f1922dc8-0be0-4d22-be8f-33099c00de0a)
+![Yogify1](https://github.com/DeepaNadar/Yogify/assets/141585733/902d7c1b-fef3-4902-92ba-3ddf3cb62f98) ![Yogify2](https://github.com/DeepaNadar/Yogify/assets/141585733/5b92a990-7eda-4e29-bfdc-d07dd50ea623)
+![Yogify3](https://github.com/DeepaNadar/Yogify/assets/141585733/cc0977b4-fd6b-491b-aa04-3527add155c1) ![Yogify4](https://github.com/DeepaNadar/Yogify/assets/141585733/4d5a711e-362c-4b7b-8132-dc37663b6195)
+
+
+
+
 
 
 
