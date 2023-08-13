@@ -1,4 +1,4 @@
-# Yogify - AI based yoga trainer
+# Yogify - AI based yoga trainer🧘‍♂️
 ### Yogify is your AI-powered yoga guide, developed during my 6th semester in the field of Computer Science. This innovative Flutter app uses AI to lead you through yoga poses. Let's dive into the wonderful world of yoga, guided by technology!
 ## Features:
 1. **Easy Access**: Start your yoga journey by logging in with your email or Google account.
